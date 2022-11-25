@@ -1,0 +1,8 @@
+Cadastro prestador de serviço - V
+Tela de login - V
+Cadastro Empresa - V
+Cadastro Contratente - V
+
+Central de ajuda - Fazer CSS
+Chat - Fazer CSS
+Meu Perfil - Fazer CSS
